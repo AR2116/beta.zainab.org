@@ -1,6 +1,7 @@
 body{
-  padding: 25px;
-  background-color:#ffffff;
+	padding: 25px;
+	background-color:#ffffff;
+	font-family: Roberto;
 }
 
 .title-box {
@@ -26,6 +27,6 @@ body{
 }
 
 .inline {
-	inline	
+	display: inline-block;
 	padding: 10px;
 }
