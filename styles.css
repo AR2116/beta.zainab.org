@@ -1,7 +1,6 @@
-body{
+body {
 	padding: 25px;
 	background-color:#ffffff;
-	font-family: Roberto;
 }
 
 .title-box {
@@ -30,4 +29,5 @@ body{
 	display: inline;
 	margin-top: 5px;
 	margin-bottom: 5px;
+	font-family: Roboto Condensed;
 }
