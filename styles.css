@@ -26,5 +26,6 @@ body{
 }
 
 .inline {
- inline	
+	inline	
+	padding: 10px;
 }
